@@ -1,0 +1,10 @@
+[Unit]
+Description=Run image update script daily and at boot
+
+[Timer]
+OnCalendar=daily
+Persistent=true
+OnBootSec=10
+
+[Install]
+WantedBy=timers.target

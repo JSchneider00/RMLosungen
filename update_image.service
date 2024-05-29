@@ -1,0 +1,9 @@
+[Unit]
+Description=Update the daily image
+
+[Service]
+Type=oneshot
+ExecStart=/usr/share/remarkable/scripts/update_image.sh
+
+[Install]
+WantedBy=multi-user.target
