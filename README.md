@@ -1,2 +1,2 @@
 # RMLosungen
-This repository explains how to get a daily refreshing suspend screen on the basis of text of text you want to showcase on your Remarkable suspend screen. 
+This repository explains how to set up a daily-refreshing suspend screen on your Remarkable, based on the text (bible verses, quotes, etc.) you want to display.
