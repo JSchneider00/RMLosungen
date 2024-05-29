@@ -8,4 +8,5 @@ The remarkable suspend screen is a simple .png file which is loccated at /usr/sh
 - be able to compile latex files
 - convert PDFs to PNGs (I am using ImageMagick here)
 
-###
+### Unfinished
+... To be continued
